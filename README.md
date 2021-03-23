@@ -9,4 +9,3 @@
 - Step 6: Enter the command `flask run`, it will start on port 5000 by default.
 - Step 7: Test the route with a command in this format `curl http://localhost:5000/menu/YYYY-MM-DD/MEAL_TYPE`. An example of this request is `curl http://localhost:5000/menu/2021-03-27/MEAL_KIT`.
 - Step 8: You should have an array of the available meals returned.
-# sunbasket
